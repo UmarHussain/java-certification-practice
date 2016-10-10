@@ -1,0 +1,92 @@
+Chapter 2
+
+Question 5 Answer  C  will work just once and will come out of the loop after one iteration
+
+Question 6 Answer  F wont complie.
+ 
+Question 7 Answer  D First inner second clause  sout (x > 2 ? ( x > 4 ? 8 : 10) : 7 ); 
+
+Question 8 Answer  B true,20,false 
+
+Question 9 Answer  F infinite loop (not correct in first place)
+
+Question 10 Answer D Code wont compile 
+
+Question 11 Answer A 2 will be the answer since operaor precedence for */% is from left to right
+
+Question 12 Answer D line 5 
+
+Question 13 Answer A Success 
+
+Question 14 Answer C 12
+
+Question 15 Answer  E (not correct in first place) no brackets in while condition
+
+Question 16 Answer D value of variable y is out of scope for while condition
+
+Question 17 Answer B :9 (not corrcect in the first place), correct Answer  D : 11
+
+Question 18 Answer  A :10
+
+Question 19 Answer D : 36
+
+Question 20 Answer  B greatgood
+
+
+Chapter 3 Core Java APIs
+
+Question 1 G will not compile (not correct in the fist place)
+
+Question 2 A,C,D
+
+Question 3 B,C,E
+
+Question 4 F
+
+Question 5 B
+
+Question 6 B not correct in first attempt , StringBuilder will change not String since Striong immnutable
+
+Question 7 E exception is thown
+
+Question 8 A D E
+
+Question 9 C idiot!!!, did not see the space in " two" 
+
+Question 10 F was not confirm about string appending other values that string type like boolean and int  
+
+Question 10 reference
+
+/* public static void questionOne(){
+        int numFish = 4;
+        String fishType = "tuna";
+         //fishType += numFish; this allowed
+        
+        // String anotherFish = numFish + 1; this is not allowed 
+        
+       // System.out.println(anotherFish + " " + fishType);
+        System.out.println(numFish + " " + 1);
+    }*/
+
+
+Question 11 B
+
+Question 12 A
+
+Question 13 will not compile (not correct in first attempt)
+
+Question 14 A
+
+Question 15 A,B,D
+
+Question 16  F not correct in the first attempt
+
+Question 17 F
+
+Question 18 A,C,D,E,F,G
+
+
+
+
+
+

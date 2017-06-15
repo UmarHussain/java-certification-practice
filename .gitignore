@@ -30,7 +30,7 @@
 ## Plugin-specific files:
 
 # IntelliJ
-/out/
+
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -49,3 +49,4 @@ fabric.properties
 /.idea/misc.xml
 /.idea/java-certification-practice.iml
 /.idea/
+
